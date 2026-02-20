@@ -7,9 +7,10 @@
 - 🌎 My Linkedin: https://www.linkedin.com/arnouddev89
 - 😄 Pronouns: He/His.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ##
-
-![GitHub 3D Contribution](https://raw.githubusercontent.com/ArnoudDev89/ArnoudDev89/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnouddev89&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -17,11 +18,13 @@
 
 [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnouddev89&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-##
-  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,kafka,aws,azure,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,kafka,aws,azure)](https://skillicons.dev)
 
 ##
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnoud%20Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnouddev89)
   ##
   
  <div> 
