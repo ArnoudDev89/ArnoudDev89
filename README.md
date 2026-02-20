@@ -57,36 +57,4 @@
 
 ---
 
-## 🌐 Other Profiles & Communities
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/esdras-pinheiro-alves-667265105/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Secondary_Profile-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.youtube.com/channel/UChYNYlVKMMZkUfoxrwk0CzA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/esdrasmtb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.twitch.tv/esdrasmtb" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-1A1A1A?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/channels/817119330268872734/817119330268872736" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <a href="mailto:esdras.dev91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Secondary-2A2A2A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
----
-
 ✨ **"Building consistent progress, one commit at a time."**
