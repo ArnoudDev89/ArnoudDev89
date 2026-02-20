@@ -9,16 +9,19 @@
 
 ##
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/ArnoudDev89/ArnoudDev89/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esdrasdev91&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esdrasdev91&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esdrasdev91&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnouddev89&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnouddev89&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnouddev89&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ##
   
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,maven,gradle,idea,postgres,aws,azure,docker,js,react,html,css,vscode,kafka,rabbitmq,windows,linux,githubactions,github)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,kafka,aws,azure,githubactions)](https://skillicons.dev)
+
+##
   ##
   
  <div> 
